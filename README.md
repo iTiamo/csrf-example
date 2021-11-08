@@ -1,1 +1,1 @@
-This applicaties contains two routes: "transfer" and "safe-transfer". "safe-transfer" is protected from CSRF while "transfer" is not. In resources/views you can find exploit.html which uses a CSRF exploit to exploi the unsafe "transfer" route.
+This applicaties contains two routes: "transfer" and "safe-transfer". "safe-transfer" is protected from CSRF while "transfer" is not. In resources/views you can find exploit.html which uses a CSRF exploit to exploit the unsafe "transfer" route.
